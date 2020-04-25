@@ -39,7 +39,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-family: "Inconsolata", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 30px 0;
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-home .text-inner h1 {
   font-size: 60px;
-  color: white;
+  color: rgb(0, 0, 0);
   margin: 0 0 30px 0;
   font-weight: 700;
   line-height: 58px;
